@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>705</id>
+      <name>tet</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-04 09:02:13.758403+00:00</created>
+      <updated>2026-03-04 10:30:25.873884+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3541</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://172.13.0.10:8080/api/jobs/3541</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>PavelGR</username>
+        <email>grigorevpavelevgenevich@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>rep_point_1</name>
+          <color>#920503</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rep_point_2</name>
+          <color>#61a953</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rep_point_3</name>
+          <color>#4bb26b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rep_point_4</name>
+          <color>#f34d3d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>car_place</name>
+          <color>#c9bd71</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>work_area</name>
+          <color>#0c5fc1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-03-04 10:47:50.571991+00:00</dumped>
+  </meta>
+  <image id="0" name="Screenshot from YTDown.com_YouTube_BLK-HDPTZ12-Security-Camera-Parkng-Lot-S_Media_U7HRKjlXK-Y_001_1080p.mp4.png" width="1920" height="1080">
+    <points label="rep_point_1" source="manual" occluded="0" points="174.50,845.10" z_order="0">
+    </points>
+    <polygon label="car_place" source="manual" occluded="0" points="240.41,648.08;248.99,612.75;344.32,609.48;346.08,644.22" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="351.20,642.70;348.70,609.20;447.00,606.20;458.60,637.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="464.90,637.20;451.46,605.22;549.76,602.22;567.00,632.50" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="575.20,632.00;551.67,602.12;649.97,599.12;677.60,628.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="867.50,811.70;792.50,737.10;929.20,729.70;1023.20,799.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="685.80,626.80;653.28,598.03;751.58,595.03;783.60,623.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="790.30,621.80;754.10,595.73;852.40,592.73;892.70,618.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1181.40,788.20;1079.20,719.70;1213.20,709.50;1324.80,776.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1330.40,773.90;1215.20,710.20;1335.90,705.60;1458.30,763.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1464.90,762.40;1337.10,704.40;1436.30,694.00;1585.60,749.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1212.10,709.50;1133.20,661.30;1212.40,657.50;1336.50,706.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="889.95,617.33;853.75,591.26;937.60,585.40;994.70,611.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1337.70,705.30;1209.30,657.80;1333.40,652.90;1429.60,692.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1433.74,693.29;1333.60,651.80;1407.90,649.00;1525.70,686.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="182.80,843.30;203.50,761.50;345.00,757.40;353.80,836.80" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="361.30,836.90;353.96,756.71;496.20,750.10;525.60,829.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="352.69,753.38;348.80,700.50;471.70,695.20;491.90,746.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="204.00,760.40;218.60,707.30;343.80,700.60;344.52,754.39" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="533.10,828.40;501.46,749.91;643.70,743.29;699.20,820.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="707.40,821.60;650.45,745.10;792.69,738.48;859.90,810.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="502.90,748.20;477.80,695.00;610.60,691.50;644.40,743.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="651.60,742.40;611.07,689.90;747.00,684.80;788.80,735.30" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="788.60,734.60;746.20,684.50;859.40,679.90;932.50,728.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1029.70,798.40;936.90,729.60;1077.90,720.10;1173.60,788.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1591.40,748.30;1442.20,693.90;1528.20,687.40;1698.80,736.80" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="935.10,728.00;864.50,678.30;996.90,670.30;1076.40,719.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1076.14,720.09;999.60,669.80;1133.50,661.50;1210.40,708.80" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="997.20,611.90;941.92,585.23;1034.30,581.90;1087.20,604.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1039.20,580.93;1118.80,577.33;1188.75,604.07;1095.74,605.86" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="252.71,597.13;256.60,580.20;342.30,578.30;342.66,592.69" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="347.23,578.53;430.63,574.52;437.99,591.38;348.43,591.25" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="540.54,582.28;526.40,568.60;615.60,564.70;632.20,578.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="633.20,578.10;617.40,564.90;704.10,562.20;724.06,574.24" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="728.41,575.22;706.40,562.00;794.40,559.30;820.07,571.34" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="820.58,571.75;794.50,558.40;865.40,553.70;898.60,566.30" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="903.92,565.48;867.40,553.30;953.60,551.00;985.50,562.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="985.21,561.54;955.10,550.40;1027.40,546.50;1066.79,558.06" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="1073.21,558.67;1031.30,544.90;1104.60,543.30;1153.00,556.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="280.60,501.09;284.47,491.49;339.30,490.56;339.46,500.32" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="342.90,499.50;343.49,490.71;393.50,489.50;396.80,498.60" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="400.60,498.10;396.62,488.08;450.10,487.90;455.40,497.80" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="587.20,492.90;577.95,483.31;620.30,481.80;636.40,492.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="641.00,491.20;626.93,481.06;676.60,479.20;695.00,489.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="698.40,487.60;682.50,478.18;732.17,476.32;754.60,485.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="760.60,485.40;738.73,475.05;788.41,473.20;814.40,483.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="819.60,483.30;796.35,473.74;843.80,471.90;873.40,481.50" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="262.16,551.63;266.05,534.70;337.00,533.40;336.70,550.40" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="341.30,550.40;339.76,533.44;410.72,532.14;412.70,547.20" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="419.60,547.50;413.91,532.46;484.87,531.16;491.80,545.50" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="497.00,544.00;488.45,530.85;556.00,528.40;570.40,542.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="576.00,540.70;560.26,527.55;630.20,525.50;646.30,539.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="726.00,534.20;703.68,521.20;770.05,517.94;797.30,531.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="796.97,531.13;774.65,518.13;838.80,515.50;875.40,529.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="880.80,528.50;846.87,515.19;910.90,513.10;948.50,525.90" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="648.20,537.60;633.32,524.56;699.70,521.30;721.30,535.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="266.90,533.40;273.40,518.30;336.90,517.00;336.20,531.80" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="339.98,533.38;338.44,516.42;406.10,515.10;411.38,530.18" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="410.78,530.94;405.09,515.89;475.30,513.90;482.98,528.94" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="484.40,528.70;477.00,514.80;541.96,513.10;556.36,526.70" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="558.34,525.16;542.60,512.01;609.60,511.10;628.64,523.56" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="631.60,522.00;614.84,511.18;676.00,507.60;697.60,521.00" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="701.60,520.49;679.28,507.49;742.30,504.60;767.30,517.00" z_order="0">
+    </polygon>
+    <points label="rep_point_4" source="manual" occluded="0" points="1703.90,736.20" z_order="0">
+    </points>
+    <polygon label="car_place" source="manual" occluded="0" points="949.50,526.50;911.91,512.35;976.06,509.72;1016.40,523.10" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="771.40,515.70;746.89,503.35;803.90,501.90;832.90,513.30" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="842.33,513.17;808.41,499.86;872.43,497.77;910.03,510.57" z_order="0">
+    </polygon>
+    <polygon label="car_place" source="manual" occluded="0" points="912.03,510.33;874.44,496.18;940.20,494.80;976.33,507.43" z_order="0">
+    </polygon>
+    <points label="rep_point_2" source="manual" occluded="0" points="280.90,488.60" z_order="0">
+    </points>
+    <polygon label="car_place" source="manual" occluded="0" points="1125.49,577.18;1195.39,603.16;1283.60,600.30;1220.90,577.20" z_order="0">
+    </polygon>
+    <points label="rep_point_3" source="manual" occluded="0" points="845.60,469.60" z_order="0">
+    </points>
+    <polygon label="work_area" source="manual" occluded="0" points="261.50,484.20;132.20,878.80;1798.00,750.00;899.00,466.60" z_order="0">
+    </polygon>
+  </image>
+</annotations>
