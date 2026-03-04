@@ -1,4 +1,5 @@
 from lxml import etree
+from typing import Any
 
 def parse_cvat_xml(xml_path: str):
     tree = etree.parse(xml_path)
